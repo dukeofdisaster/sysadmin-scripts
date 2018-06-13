@@ -1,2 +1,2 @@
 # sysadmin-scripts
-light things i've fond useful for sysadmin stuff
+light things i've found useful for sysadmin stuff
